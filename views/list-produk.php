@@ -120,7 +120,7 @@ $produkList = produk::get();
                                                 <i class="fas fa-trash"></i>
                                             </a>
                                         </div>
-</td>
+                                    </td>
 
                                     </tr>
                                 <?php endforeach; ?>
