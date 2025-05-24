@@ -13,7 +13,7 @@ class PegawaiSeeder extends Seeder
      */
     public function run(): void
     {
-        DB::table('pegawai')->insert([
+        DB::table('unit_pegawai')->insert([
             [
                 'nip' => '1234567890',
                 'nama' => 'John Doe',
