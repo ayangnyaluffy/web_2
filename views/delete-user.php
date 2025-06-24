@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../models/pesanan.php';
+require_once __DIR__ . '/../models/user.php';
 use models\User;
 
 if(!isset($_GET['id'])) {
